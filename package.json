@@ -1,0 +1,22 @@
+{
+  "name": "chipos",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html",
+    "deploy": "parcel build src/index.html --public-url=\"/chipos/\" && gh-pages -d dist"
+  },
+  "alias": {
+    "chipos": "./src"
+  },
+  "author": "Osmose",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "gh-pages": "^3.1.0",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-clean-dist": "0.0.6"
+  },
+  "dependencies": {}
+}

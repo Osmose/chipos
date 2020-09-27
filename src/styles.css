@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  font-family: Helvetica,Sans-serif;
+  background: #111111;
+}
