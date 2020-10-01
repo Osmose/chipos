@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,KACE,UAAY,CACZ,gCAAiC,CACjC,eACF","file":"styles.87d44775.css","sourceRoot":"..\\src","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  color: white;\r\n  font-family: Helvetica,Sans-serif;\r\n  background: #111111;\r\n}"]}
