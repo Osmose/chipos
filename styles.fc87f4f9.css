@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body,html{width:100%;height:100%}body{color:#fff;font-family:Helvetica,Sans-serif;background:#111;margin:0}#container{width:100%;height:100%}.chip-window{background:#fff;position:absolute}.chip-window .title-bar{position:absolute;left:0;right:0;top:0;height:24px;background:#00f;display:flex;flex-direction:row}.chip-window .title-bar .title-text{flex:1;user-select:none}.chip-window .title-bar .close-button{flex:0 0 auto}
+/*# sourceMappingURL=/chipos/styles.fc87f4f9.css.map */
